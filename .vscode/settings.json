@@ -1,0 +1,13 @@
+{
+"files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/node_modules": true,
+    "**/.yarn": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true
+    },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+}
